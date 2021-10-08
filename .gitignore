@@ -1,0 +1,8 @@
+*.pdf
+*.csv
+*.zip
+uo_BLSNW32.m
+uo_nn_batch.m
+uo_nn_dataset.m
+uo_nn_main.m
+uo_nn_Xyplot.m
