@@ -1,6 +1,6 @@
 # Pattern recognition with Single Layer Neural Network
 
-The objective of this project is to develop a Single Layer Neural Network (SLNN) to recognize sets of digits (0 to 9) from blurry images pseudo-randomly generated with Gaussian blur techniques. It is part of the course on unconstrained optimization.
+The objective of this project is to develop a Single Layer Neural Network (SLNN) to recognize sets of digits (0 to 9) from blurry images pseudo-randomly generated with Gaussian blur techniques. It is part of the course on unconstrained, non-linear optimization.
 
 ## About
 
@@ -12,7 +12,7 @@ Optimization Techniques for Data Mining (OTDM-MIRI)
 FIB - Universitat Politècnica de Catalunya. BarcelonaTech  
 October 2021 
 
-# Sections
+## Sections
 
 Fill...
 
