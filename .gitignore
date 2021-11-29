@@ -1,10 +1,5 @@
 *.pdf
 *.csv
 *.zip
-uo_BLSNW32.m
-uo_nn_batch.m
-uo_nn_dataset.m
-uo_nn_Xyplot.m
-uo_nn_test_func.m
-uo_nn_test_main.m
+/old/*
 uo_Fun_CE12.mlx
