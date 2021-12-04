@@ -1,5 +1,8 @@
 *.pdf
 *.csv
+*.xlsx
+*.docx
 *.zip
+*.asv
 /old/*
 uo_Fun_CE12.mlx
